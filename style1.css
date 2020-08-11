@@ -1,0 +1,298 @@
+body{
+     
+      margin: 0 auto;
+      font-size: 14px;
+      line-height:10px;
+      color: #000000;
+      vertical-align: top;
+      height:200px;
+
+     }
+}
+
+
+.header{
+	font-size:11px;
+	margin:0 auto;
+	vertical-align: top;
+	position: absolute;
+	transition: color .2s linear;
+	min-width: 470px;
+
+
+
+	
+
+}
+.nav_link{
+	font-width:700px;
+	display:inline-block;
+	text-transform:uppercase;
+	text-decoration: none;
+	color:#000;
+	margin: 0 20px;
+	margin-top: 20px;
+
+
+	
+
+
+
+font-family: 'PT Serif', serif;
+font-family: 'Recursive', sans-serif;
+
+
+}
+
+.nav_link:hover{
+	color:#999;
+
+}
+.header-inner{
+
+	margin:0 auto;
+	vertical-align: top;
+	justify-content: space-between;
+	background-color: #F5F5F5;
+
+	
+
+}
+
+
+
+.header-inner2{
+	margin: 0 20px;
+	text-align:right;
+    position: relative;bottom:28px;
+
+
+}
+
+
+.foodica{
+	margin:0 auto;
+	text-align:center;
+	font-size: 100px;
+	font-family: 'Dancing Script', cursive;
+}
+.recipes{
+	color:#999;
+	font-family: 'Barlow Condensed', sans-serif;
+	font-size:50px;
+}
+
+.photo{
+	margin:0 auto;
+	display: flex;
+	justify-content: center;
+}
+
+.poloska{
+	position:relative; top:90px;
+ 
+    border: none; /* Убираем границу */
+    background-color: #696969; /* Цвет линии */
+    color: red; /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+    width:200px;
+    margin:0 auto;
+}
+.poloska2{
+	position:relative; top:200px;
+ 
+    border: none; /* Убираем границу */
+    background-color: #696969; /* Цвет линии */
+    color: red; /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+    width:200px;
+    margin:0 auto;
+}
+.titata{
+	margin:0 auto;
+	position:relative; top:140px;
+	text-align: center;
+	color:#999;
+	font-family: 'Barlow Condensed', sans-serif;
+	font-size:50px;
+}
+
+.name{
+	font-size: 80px;
+	position:relative; top:260px;
+	margin:0 auto;
+	text-align: center;
+	font-family: 'Barlow Condensed', sans-serif;
+	transition: 0.2 linear;
+	text-decoration: none;
+	text-transform:uppercase;
+}
+.name:hover{
+	color:#999;
+}
+
+.tort{
+	margin-left:60px;
+}
+.pirog{
+	margin-left: 80px;
+}
+.cake{
+	margin-left: 90px;
+}
+
+.cake:hover{
+	filter: alpha(Opacity=50); /* Полупрозрачность для IE */
+    opacity: 0.75; /* Полупрозрачность для других браузеров */ 
+   }
+
+.tort:hover{
+	filter: alpha(Opacity=50); /* Полупрозрачность для IE */
+    opacity: 0.75; /* Полупрозрачность для других браузеров */ 
+   }
+
+   .pirog:hover{
+	filter: alpha(Opacity=50); /* Полупрозрачность для IE */
+    opacity: 0.75; /* Полупрозрачность для других браузеров */ 
+   }
+
+   .foto{
+   	position: relative;top:250px;
+   
+   }
+.name2{
+	font-size: 80px;
+	position:relative; top:250px;
+	margin:0 auto;
+	text-align: center;
+	font-family: 'Barlow Condensed', sans-serif;
+	text-transform:uppercase;
+}
+
+.nameone{
+	text-decoration: none;
+	color:#000;
+	transition: 0.2 linear;
+}
+
+.nameone:hover{
+	color:#999;
+}
+.name2:hover{
+	color:#999;
+}
+
+
+.foto2{
+	position: relative;top:250px;
+}
+
+.hot1{
+	margin-left:60px;
+}
+.hot2{
+	margin-left: 80px;
+}
+.hot3{
+	margin-left: 90px;
+}
+
+.hot1:hover{
+	filter: alpha(Opacity=50); /* Полупрозрачность для IE */
+    opacity: 0.75; /* Полупрозрачность для других браузеров */ 
+   }
+
+.hot2:hover{
+	filter: alpha(Opacity=50); /* Полупрозрачность для IE */
+    opacity: 0.75; /* Полупрозрачность для других браузеров */ 
+   }
+
+   .hot3:hover{
+	filter: alpha(Opacity=50); /* Полупрозрачность для IE */
+    opacity: 0.75; /* Полупрозрачность для других браузеров */ 
+   }
+
+
+
+
+
+
+.name3{
+	font-size: 80px;
+	position:relative; top:260px;
+	margin:0 auto;
+	text-align: center;
+	font-family: 'Barlow Condensed', sans-serif;
+	transition: 0.2 linear;
+	text-decoration: none;
+	text-transform:uppercase;
+}
+.name3:hover{
+	color:#999;
+}
+
+   .foto3{
+	position: relative;top:250px;
+}
+
+.nap1{
+	margin-left:60px;
+}
+.nap2{
+	margin-left: 80px;
+}
+.nap3{
+	margin-left: 90px;
+}
+
+.nap1:hover{
+	filter: alpha(Opacity=50); /* Полупрозрачность для IE */
+    opacity: 0.75; /* Полупрозрачность для других браузеров */ 
+   }
+
+.nap2:hover{
+	filter: alpha(Opacity=50); /* Полупрозрачность для IE */
+    opacity: 0.75; /* Полупрозрачность для других браузеров */ 
+   }
+
+   .nap3:hover{
+	filter: alpha(Opacity=50); /* Полупрозрачность для IE */
+    opacity: 0.75; /* Полупрозрачность для других браузеров */ 
+   }
+
+
+
+
+
+   #content {
+    width: 500px; /* Ширина слоя */
+    margin: 0 auto 50px; /* Выравнивание по центру */
+   }
+   #footer {
+   	height:200px;
+    position: relative;top:370px;
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding: 10px; /* Поля вокруг текста */
+    background: #F5F5F5; /* Цвет фона */
+    color: #000; /* Цвет текста */
+    font-size: 16px;
+    width: 100%; /* Ширина слоя */
+   }
+   .podval{
+margin-left: 60px;
+margin-top:20px;
+   }
+   .pod{
+   	position: relative;top:20px;
+   	margin-bottom: 30px;
+   }
+
+   .podval2{
+margin-left: 200px;
+   }
+   .pod2{
+   	
+   	position: relative;bottom:100px;
+   	margin:0 auto;
+   	margin-bottom:30px;
+   }
