@@ -1,0 +1,303 @@
+body{
+     
+      margin: 0 auto;
+      font-size: 14px;
+      line-height:10px;
+      color: #000000;
+      vertical-align: top;
+      height:200px;
+
+     }
+}
+
+
+.header{
+	font-size:11px;
+	margin:0 auto;
+	vertical-align: top;
+	position: absolute;
+	transition: color .2s linear;
+	min-width: 470px;
+
+
+
+	
+
+}
+.nav_link{
+	font-width:700px;
+	display:inline-block;
+	text-transform:uppercase;
+	text-decoration: none;
+	color:#000;
+	margin: 0 20px;
+	margin-top: 20px;
+
+
+	
+
+
+
+font-family: 'PT Serif', serif;
+font-family: 'Recursive', sans-serif;
+
+
+}
+
+.nav_link:hover{
+	color:#999;
+
+}
+.header-inner{
+
+	margin:0 auto;
+	vertical-align: top;
+	justify-content: space-between;
+	background-color: #F5F5F5;
+
+	
+
+}
+
+
+
+.header-inner2{
+	margin: 0 20px;
+	text-align:right;
+    position: relative;bottom:28px;
+
+
+}
+
+
+.foodica{
+	margin:0 auto;
+	text-align:center;
+	font-size: 100px;
+	font-family: 'Dancing Script', cursive;
+}
+.recipes{
+	color:#999;
+	font-family: 'Barlow Condensed', sans-serif;
+	font-size:50px;
+}
+
+.name{
+	font-size: 110px;
+	position:relative; top:480px;
+	margin:0 auto;
+	text-align: center;
+	font-family: 'Barlow Condensed', sans-serif;
+	text-transform:uppercase;
+}
+
+.video{
+	position: relative;
+
+
+}
+
+.media{
+	width:1000px;
+	height:500px;
+	margin:0 auto;
+	left:0;
+	right: 0;
+	position:absolute;
+}
+
+.desserts{
+	line-height: 20px;
+	left:30px;
+	margin:0 auto;
+	position: relative;top:500px;
+	background-color:#FFF8DC;
+	height: 150px;
+	width:1200px;
+
+}
+
+.des{
+	font-family: 'Oswald', sans-serif;
+	transition: 0.2 linear;
+	font-size:20px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color:#000;
+}
+.des:hover{
+	color:#c0c0c0;
+}
+
+.opisanie{
+	text-align: left;
+	line-height: 20px;
+	margin: 0 auto;
+	font-family: 'Arial', sans-serif;
+	font-size: 16px;
+}
+
+
+.photo{
+	left:0;
+	right: 0;
+	margin:0 auto;
+	position: relative;left:900px;
+	position: relative;top:1px;
+
+
+}
+
+
+.desserts2{
+	line-height: 20px;
+	left:30px;
+	margin:0 auto;
+	position: relative;top:570px;
+	background-color:#FFF8DC;
+	height: 150px;
+	width:1200px;
+
+}
+
+.des2{
+	font-family: 'Oswald', sans-serif;
+	transition: 0.2 linear;
+	font-size:20px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color:#000;
+}
+.des2:hover{
+	color:#c0c0c0;
+}
+
+.opisanie2{
+	text-align: left;
+	line-height: 20px;
+	margin: 0 auto;
+	font-family: 'Arial', sans-serif;
+	font-size: 16px;
+}
+
+.photo2{
+	left:0;
+	right: 0;
+	margin:0 auto;
+	position: relative;left:596px;
+	position: relative;top:230px;
+}
+.desserts3{
+	line-height: 20px;
+	left:30px;
+	margin:0 auto;
+	position: relative;top:630px;
+	background-color:#FFF8DC;
+	height: 150px;
+	width:1200px;
+
+}
+
+.des3{
+	font-family: 'Oswald', sans-serif;
+	transition: 0.2 linear;
+	font-size:20px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color:#000;
+}
+.des3:hover{
+	color:#c0c0c0;
+}
+
+.opisanie3{
+	text-align: left;
+	line-height: 20px;
+	margin: 0 auto;
+	font-family: 'Arial', sans-serif;
+	font-size: 16px;
+}
+.photo3{
+	left:0;
+	right: 0;
+	margin:0 auto;
+	position: relative;left:294px;
+	position: relative;top:460px;
+}
+
+
+.desserts4{
+	line-height: 20px;
+	left:30px;
+	margin:0 auto;
+	position: relative;top:700px;
+	background-color:#FFF8DC;
+	height: 150px;
+	width:1200px;
+
+}
+
+.des4{
+	font-family: 'Oswald', sans-serif;
+	transition: 0.2 linear;
+	font-size:20px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color:#000;
+}
+.des4:hover{
+	color:#c0c0c0;
+}
+
+.opisanie4{
+	text-align: left;
+	line-height: 20px;
+	margin: 0 auto;
+	font-family: 'Arial', sans-serif;
+	font-size: 16px;
+}
+.photo4{
+
+	position: relative;left:901px;
+	position: relative;top:327px;
+}
+.foto{
+	position: relative;bottom:168px;
+}
+
+
+
+
+
+ #content {
+    width: 500px; /* Ширина слоя */
+    margin: 0 auto 50px; /* Выравнивание по центру */
+   }
+   #footer {
+   	height:200px;
+    position: relative;top:500px;
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding: 10px; /* Поля вокруг текста */
+    background: #F5F5F5; /* Цвет фона */
+    color: #000; /* Цвет текста */
+    font-size: 16px;
+    width: 100%; /* Ширина слоя */
+   }
+   .podval{
+margin-left: 60px;
+margin-top:20px;
+   }
+   .pod{
+   	position: relative;top:20px;
+   	margin-bottom: 30px;
+   }
+
+   .podval2{
+margin-left: 200px;
+   }
+   .pod2{
+   	
+   	position: relative;bottom:100px;
+   	margin:0 auto;
+   	margin-bottom:30px;
+   }
