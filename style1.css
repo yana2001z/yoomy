@@ -303,12 +303,18 @@ margin-left: 200px;
 @media (max-width: 1280px){
 .tort{
 	margin-left:5px;
+       height:400px;
+       width:800px;
 }
 .pirog{
 	margin-left: 10px;
+height:400px;
+       width:800px;
 }
 .cake{
 	margin-left: 20px;
+height:400px;
+       width:800px;
 }
 }
 
