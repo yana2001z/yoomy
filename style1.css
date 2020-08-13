@@ -264,6 +264,7 @@ font-family: 'Recursive', sans-serif;
 
 
 
+
    #content {
     width: 500px; /* Ширина слоя */
     margin: 0 auto 50px; /* Выравнивание по центру */
@@ -296,3 +297,13 @@ margin-left: 200px;
    	margin:0 auto;
    	margin-bottom:30px;
    }
+
+
+
+
+
+@media(max-width:1160px){
+.container{
+width:100%;
+	}
+}
