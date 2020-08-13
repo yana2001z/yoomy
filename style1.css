@@ -132,13 +132,13 @@ font-family: 'Recursive', sans-serif;
 }
 
 .tort{
-	margin-left:20px;
+	margin-left:5px;
 }
 .pirog{
-	margin-left: 30px;
+	margin-left: 10px;
 }
 .cake{
-	margin-left: 50px;
+	margin-left: 20px;
 }
 
 .cake:hover{
