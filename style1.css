@@ -300,5 +300,9 @@ margin-left: 200px;
 
 
 
-
+@media(max-width:1160px) {
+.cake{
+margin-left:20px;
+	}
+}
 
